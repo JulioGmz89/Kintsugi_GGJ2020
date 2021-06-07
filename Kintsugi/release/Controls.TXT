@@ -1,0 +1,5 @@
+Move Right - "Right" or "D"
+Move Left - "Left" or "A"
+Jump - "Up" or "W"
+Attack - "Left Mouse"
+Regen - "Right Mouse"

@@ -1,0 +1,2 @@
+A partir de diferentes codigos de C#, progrmamos el movimiento de el personaje, el ataque, movimiento de enemigos, sistema de almacnamiento, regeracion de vida, el HUD y las animaciones.
+From different C # codes, we program the movement of the character, the attack, movement of enemies, storage system, life regeneration, the HUD and the animation
